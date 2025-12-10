@@ -1,8 +1,8 @@
 # Wine Quality Prediction with Multilayer Perceptron (MLP)
 
 ### A Tutorial on Model Capacity and Performance  
-Name: <Bhanu Prakash Mallam>  
-ID: <24095576>  
+Name: Bhanu Prakash Mallam 
+ID: 24095576
 
 
 ---
