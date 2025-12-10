@@ -1,8 +1,9 @@
 # Wine Quality Prediction with Multilayer Perceptron (MLP)
 
 ### A Tutorial on Model Capacity and Performance  
-Author: <Your Name> — Student ID: <Your ID>  
-Course: Fundamentals of Data Science — 2025
+Name: <Bhanu Prakash Mallam>  
+ID: <24095576>  
+
 
 ---
 
